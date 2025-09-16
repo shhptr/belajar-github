@@ -1,1 +1,3 @@
 Ini commit ke-1 dengan file baru
+Update untuk commit kedua
+Update README.md untuk commit kedua
