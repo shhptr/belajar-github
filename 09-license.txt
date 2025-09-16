@@ -1,0 +1,6 @@
+MIT License
+
+Copyright (c) YEAR <Your Name>
+
+Permission is hereby granted, free of charge, ...
+(You can replace YEAR and name; this is placeholder MIT header.)
